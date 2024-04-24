@@ -1,2 +1,3 @@
 # chat-app-practice
-This is practice rebuild for the purpose of reinforcing my understanding
+This is a practice rebuild of the chat-app 
+# purpose: to reinforcing my understanding
