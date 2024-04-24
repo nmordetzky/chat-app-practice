@@ -1,3 +1,11 @@
+# chat-app-practice
+
+This is a practice rebuild of the chat-app
+
+# Purpose: 
+
+to reinforce my understanding thus far
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
