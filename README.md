@@ -4,7 +4,7 @@ This is a practice rebuild of the chat-app
 
 # Purpose: 
 
-to reinforce my understanding thus far
+to reinforce my understanding of the chat-app's build process
 
 # Getting Started with Create React App
 
